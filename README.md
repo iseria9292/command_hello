@@ -1,0 +1,4 @@
+afrika
+asia
+america
+oceania
